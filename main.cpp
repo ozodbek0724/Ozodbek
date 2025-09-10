@@ -1,8 +1,8 @@
-#include <iostream>
-#include <cmath>
-
-using namespace std;
-
+// #include <iostream>
+// #include <cmath>
+//
+// using namespace std;
+//
 // //Problem 11
 //
 // int main() {
@@ -86,12 +86,12 @@ using namespace std;
 //
 // //Problem 17
 //
-// // int main() {
-// //     int a , b;
-// //     cin>>a>>b;
-// //     cout<<(a==b)<< endl;
-// //     return 0;
-// // }
+// int main() {
+//     int a , b;
+//     cin>>a>>b;
+//     cout<<(a==b)<< endl;
+//     return 0;
+// }
 //
 // //Problem 18
 //
@@ -139,15 +139,15 @@ using namespace std;
 //
 // //Problem 21
 //
-// // int main() {
-// //     int a, b;
-// //     cin >> a >> b;
-// //     cout << ((a + b > 30) && (a * b > 30));
-// //     cout << ((a + b > 30) || (a * (b - 10) > 30));
-// //     cout << ((a > 30) || (b > 30));
-// //
-// //     return 0;
-// // }
+// int main() {
+//     int a, b;
+//     cin >> a >> b;
+//     cout << ((a + b > 30) && (a * b > 30));
+//     cout << ((a + b > 30) || (a * (b - 10) > 30));
+//     cout << ((a > 30) || (b > 30));
+//
+//     return 0;
+// }
 //
 // //Problem 22
 //
