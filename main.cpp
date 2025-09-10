@@ -158,4 +158,4 @@ using namespace std;
 //     cout << (mikeHeightCm > x ? 1 : 0) << endl;
 //
 //     return 0;
-}
+// }
